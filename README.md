@@ -18,12 +18,12 @@ This is summary and codes.
 
 ## anferico/bert-for-patents
 ・TransformerHead  
-・optimizer = AdamW 
+・optimizer = AdamW   
 ・epoch = 5    
 ・scheduler = CosineAnnealingLR  
 
 ## Yanhao/simcse-bert-for-patent  
-・TransformerHead + Mixout
+・TransformerHead + Mixout  
 ・optimizer = AdamW  
 ・epoch = 5    
 ・scheduler = CosineAnnealingLR  
@@ -32,7 +32,7 @@ This is summary and codes.
 ・LSTMHead + Mixout  
 ・optimizer = AdamW  
 ・epoch = 5    
-・scheduler = CosineAnnealingLR
+・scheduler = CosineAnnealingLR  
 
 ## funnel-transformer/large   
 ・ConvolutionHead + Mixout  
@@ -58,7 +58,7 @@ I use weight optimazation to maximize cv.
 
 ## PostProcess
 anchor=target': score =1.0  
-contain 'ing': score == 1.0  
+contain 'ing': score == 1.0   
 
 # Some Settings 
 

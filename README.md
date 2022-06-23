@@ -1,6 +1,6 @@
 # U.S.-Patent-Phrase-to-Phrase-Matching
 
-https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/leaderboard
+https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/leaderboard  
 We got 50th prize.  
 This is summary and codes.
 

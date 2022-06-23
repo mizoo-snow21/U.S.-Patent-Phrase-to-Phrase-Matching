@@ -68,5 +68,7 @@ SmoothBCEWithlogitsloss
 # Not Worked
 ・Loss function(FocalLoss/MSELoss)   
 ・cocolomlarge  
+・Roberta-large  
+・Ernie-en-2.0-Large  
 ・MLM  
 ・AWP

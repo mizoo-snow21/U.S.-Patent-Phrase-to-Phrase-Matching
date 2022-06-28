@@ -11,7 +11,7 @@ This is summary and codes.
 
 # Model
 ## microsoft/deberta-v3-large
-・TransformerHead + multisampledropout
+・TransformerHead + multisampledropout  
 ・optimizer = AdamW  
 ・epoch = 5  
 ・scheduler = CosineAnnealingLR  
